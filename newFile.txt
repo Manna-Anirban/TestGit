@@ -1,0 +1,5 @@
+This is a text file created through Git Bash
+end
+exit
+cd
+how do I get out of this file lol
